@@ -1,2 +1,2 @@
-# Homebrew Tap
-My personal homebrew-tap
+# Reminders
+My personal chatbot for Reminders
